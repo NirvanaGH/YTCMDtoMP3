@@ -1,7 +1,6 @@
 # YTCMDtoMP3
 
-This project is designed to make downloading songs from YouTube a lot easier!
-Just a simple search, select the song you want, then boom.. itll automatically convert to a MP3!
+This was made so you no longer after the inital effort, have to put any more effort into getting MP3s from YouTube!
 
 # Installation
 NOTE THIS IS A WINDOWS GUIDE. For other operating systems i'll assist the best I can, but cannot promise great help.
