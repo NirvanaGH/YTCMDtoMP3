@@ -3,7 +3,7 @@
 This project is designed to make downloading songs from YouTube a lot easier!
 Just a simple search, select the song you want, then boom.. itll automatically convert to a MP3!
 
-#Installation
+# Installation
 NOTE THIS IS A WINDOWS GUIDE. For other operating systems i'll assist the best I can, but cannot promise great help.
 
 1. Install all the dependencies using pip EXCEPT ffmpeg (This program is weird with using pip for ffmpeg). The dependencies are yt_dlp and requests.
